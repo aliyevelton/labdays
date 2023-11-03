@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\bin\Debug\net6.0\arraypatter.exe
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\bin\Debug\net6.0\arraypatter.deps.json
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\bin\Debug\net6.0\arraypatter.runtimeconfig.json
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\bin\Debug\net6.0\arraypatter.dll
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\bin\Debug\net6.0\arraypatter.pdb
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.dll
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\refint\arraypatter.dll
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.pdb
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\arraypatter.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\arraypatter\arraypatter\obj\Debug\net6.0\ref\arraypatter.dll
