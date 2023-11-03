@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\bin\Debug\net6.0\SumIs30.exe
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\bin\Debug\net6.0\SumIs30.deps.json
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\bin\Debug\net6.0\SumIs30.runtimeconfig.json
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\bin\Debug\net6.0\SumIs30.dll
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\bin\Debug\net6.0\SumIs30.pdb
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.dll
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\refint\SumIs30.dll
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.pdb
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\SumIs30.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\SumIs30\SumIs30\obj\Debug\net6.0\ref\SumIs30.dll

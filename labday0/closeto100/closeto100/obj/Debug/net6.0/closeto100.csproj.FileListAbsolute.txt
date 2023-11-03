@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\closeto100\closeto100\bin\Debug\net6.0\closeto100.exe
+C:\Users\eltonia\Desktop\closeto100\closeto100\bin\Debug\net6.0\closeto100.deps.json
+C:\Users\eltonia\Desktop\closeto100\closeto100\bin\Debug\net6.0\closeto100.runtimeconfig.json
+C:\Users\eltonia\Desktop\closeto100\closeto100\bin\Debug\net6.0\closeto100.dll
+C:\Users\eltonia\Desktop\closeto100\closeto100\bin\Debug\net6.0\closeto100.pdb
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.dll
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\refint\closeto100.dll
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.pdb
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\closeto100.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\closeto100\closeto100\obj\Debug\net6.0\ref\closeto100.dll

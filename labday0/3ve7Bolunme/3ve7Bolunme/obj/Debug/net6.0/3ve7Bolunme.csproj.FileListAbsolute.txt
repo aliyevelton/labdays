@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\bin\Debug\net6.0\3ve7Bolunme.exe
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\bin\Debug\net6.0\3ve7Bolunme.deps.json
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\bin\Debug\net6.0\3ve7Bolunme.runtimeconfig.json
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\bin\Debug\net6.0\3ve7Bolunme.dll
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\bin\Debug\net6.0\3ve7Bolunme.pdb
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.dll
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\refint\3ve7Bolunme.dll
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.pdb
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\3ve7Bolunme.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\3ve7Bolunme\3ve7Bolunme\obj\Debug\net6.0\ref\3ve7Bolunme.dll

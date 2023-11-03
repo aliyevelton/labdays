@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\bin\Debug\net6.0\ProductClass.exe
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\bin\Debug\net6.0\ProductClass.deps.json
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\bin\Debug\net6.0\ProductClass.runtimeconfig.json
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\bin\Debug\net6.0\ProductClass.dll
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\bin\Debug\net6.0\ProductClass.pdb
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.dll
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\refint\ProductClass.dll
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.pdb
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ProductClass.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\ProductClass\ProductClass\obj\Debug\net6.0\ref\ProductClass.dll
