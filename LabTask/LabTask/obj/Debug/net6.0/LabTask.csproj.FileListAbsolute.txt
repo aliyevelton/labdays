@@ -1,0 +1,14 @@
+C:\Users\eltonia\Desktop\LabTask\LabTask\bin\Debug\net6.0\LabTask.exe
+C:\Users\eltonia\Desktop\LabTask\LabTask\bin\Debug\net6.0\LabTask.deps.json
+C:\Users\eltonia\Desktop\LabTask\LabTask\bin\Debug\net6.0\LabTask.runtimeconfig.json
+C:\Users\eltonia\Desktop\LabTask\LabTask\bin\Debug\net6.0\LabTask.dll
+C:\Users\eltonia\Desktop\LabTask\LabTask\bin\Debug\net6.0\LabTask.pdb
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfoInputs.cache
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.AssemblyInfo.cs
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.csproj.CoreCompileInputs.cache
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.dll
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\refint\LabTask.dll
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.pdb
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\LabTask.genruntimeconfig.cache
+C:\Users\eltonia\Desktop\LabTask\LabTask\obj\Debug\net6.0\ref\LabTask.dll
